@@ -1,6 +1,7 @@
 {
     "name": "devingray/custom-auth",
     "description": "Custom Auth",
+    "keywords": ["log","logging"],
     "license": "MIT",
     "support": {
         "source": "https://github.com/Websitedevelopement/test"
@@ -11,8 +12,10 @@
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Jordi Boggiano",
+            "email": "j.boggiano@seld.be",
+            "homepage": "https://github.com/Websitedevelopement/test",
+            "role": "Developer"
         }
     ],
     "require-dev": {
